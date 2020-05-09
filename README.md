@@ -1,5 +1,5 @@
 # Bomberman
-*June 2017*
+*June 2017 - ISEP, Paris, France*
 
 Development of my version of the well-known game Bomberman.
 
