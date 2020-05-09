@@ -1,10 +1,12 @@
 # Bomberman
+*June 2017*
+
 Development of my version of the well-known game Bomberman.
 
-Two themes included:
+Two themes are included:
 
-    • Rick & Morty
+ • Rick & Morty
  
-    • Pulp Fiction
+ • Pulp Fiction
 
 Sounds aren't available. 
