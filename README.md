@@ -11,4 +11,4 @@ Two themes are included:
 
 Sounds aren't available, the files architecture should be the same as for the images.
  
-![Rick & Morty Theme](https://github.com/pgjlucas/bomberman/blob/master/rick%26morty.png)
+![Rick & Morty Theme](https://github.com/pgjlucas/bomberman/blob/master/rick%26morty.png = 250x250)
