@@ -10,5 +10,6 @@ Two themes are included:
  - Pulp Fiction
 
 Sounds aren't available, the files architecture should be the same as for the images.
- 
-![Rick & Morty Theme](https://github.com/pgjlucas/bomberman/blob/master/rick%26morty.png | width=255)
+
+## Theme sample
+![Rick & Morty Theme](https://github.com/pgjlucas/bomberman/blob/master/rick%26morty.png)
