@@ -9,10 +9,6 @@ Two themes are included:
  - Rick & Morty
  - Pulp Fiction
 
-Sounds aren't available, the file architecture should be:
-- sounds/
-  - Menu/
-  - theme1/
-  - theme2/
+Sounds aren't available, the files architecture should be the same as for the images.
  
-![Rick & Morty Theme](bomberman/rick&morty.png)
+![Rick & Morty Theme](https://github.com/pgjlucas/bomberman/blob/master/rick%26morty.png)
