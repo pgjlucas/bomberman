@@ -15,4 +15,4 @@ Sounds aren't available, the file architecture should be:
   - theme1/
   - theme2/
  
-![Rick & Morty Theme](theme1)
+![Rick & Morty Theme](bomberrman/rick&morty.png)
