@@ -1,6 +1,6 @@
 # Bomberman
 ## Scope
-Custom version of the well-known game Bomberman.
+Development of my version of the well-known game Bomberman.
 
 ## Description
 Two player game. The goal is to defeat the other one by exploring a map, using bombs and finding bonuses.
